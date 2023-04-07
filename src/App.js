@@ -6,13 +6,13 @@ import Meteo from './components/Meteo';
 function App() {
 
   const people = [
-    { name: "Douaa", id: 1 },
-    { name: "Marie", id: 2 },
-    { name: "Adrien", id: 3 },
-    { name: "Adella", id: 4 },
-    { name: "Anthony", id: 5 },
-    { name: "Clara", id: 6 },
-    { name: "Marie", id: 7 },
+    { name: "Douaa" },
+    { name: "Marie" },
+    { name: "Adrien" },
+    { name: "Adella" },
+    { name: "Anthony" },
+    { name: "Clara" },
+    { name: "Marie" },
   ];
 
 
